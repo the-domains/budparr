@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[budparr]]></title>
         <description><![CDATA[budparr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/budparr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 Nov 2015 14:46:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 Nov 2015 20:21:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/budparr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The End]]></title>
             <description><![CDATA[<article><h1>The End</h1><p>Perfect dramatic reading of Beckett's "The End"</p><img src="http://whitelightfestival.org/assets/img/eventphotos/the-end.jpg"></article>]]></description>
             <link>http://whitelightfestival.org/events/the-end?utm_medium=Email&amp;utm_source=ExactTarget&amp;utm_campaign=</link>
             <guid isPermaLink="false">a28dcffa-4430-4b69-aa09-ae6c0778712f</guid>
             <pubDate>Wed, 04 Nov 2015 14:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[László Krasznahorkai]]></title>
+            <description><![CDATA[<article><h1>László Krasznahorkai</h1><p>Skip to content Hungarian writer László Krasznahorkai was born in Gyula, Hungary, in 1954. He worked for some years as an editor until 1984, when he became a freelance writer. He now lives in reclusiveness in the hills of Szentlászló.</p><img src="http://storage.googleapis.com/ndimages/seiobo_there_below.jpg"></article>]]></description>
+            <link>http://www.ndbooks.com/author/laszlo-krasznahorkai/</link>
+            <guid isPermaLink="false">340462b0-5c4f-4911-bf0e-5fc20c91868d</guid>
+            <pubDate>Wed, 04 Nov 2015 20:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
