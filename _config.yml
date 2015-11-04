@@ -1,0 +1,23 @@
+name: budparr
+favicon: null
+layout_spectrum: 0.5724314094986767
+typography_spectrum: 0.5982905165292323
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.29730281699448824
+  lightness: 0.6146070794202387
+  saturation: 0.5621028542518616
+  rhythmicContrast: 0.2874122413340956
+purpose: []
